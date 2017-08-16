@@ -1,0 +1,5 @@
+{
+    "require": {
+		"xavrsl/cas": "1.2.*"
+    }
+}
